@@ -18,6 +18,8 @@ We will be calling our API throughout the next 8 modules. I have written the req
 ***
 
 ## Getting started
+
+
 First you will need to clone down the first module.
 
 1) Create a new directory on your local machine. I have called mine drf_course. This is your 'root directory'.
